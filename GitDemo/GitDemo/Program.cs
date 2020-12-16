@@ -10,6 +10,8 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
+            Product p = new Product();
+            p.printHello();
             Console.WriteLine("First C#");
             Console.WriteLine("Hello World");
             Console.ReadLine();

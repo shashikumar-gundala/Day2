@@ -1,0 +1,7 @@
+E:\LTI_GIT_Demos\Day2\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
+E:\LTI_GIT_Demos\Day2\GitDemo\GitDemo\bin\Debug\GitDemo.exe
+E:\LTI_GIT_Demos\Day2\GitDemo\GitDemo\bin\Debug\GitDemo.pdb
+E:\LTI_GIT_Demos\Day2\GitDemo\GitDemo\obj\Debug\GitDemo.csprojAssemblyReference.cache
+E:\LTI_GIT_Demos\Day2\GitDemo\GitDemo\obj\Debug\GitDemo.csproj.CoreCompileInputs.cache
+E:\LTI_GIT_Demos\Day2\GitDemo\GitDemo\obj\Debug\GitDemo.exe
+E:\LTI_GIT_Demos\Day2\GitDemo\GitDemo\obj\Debug\GitDemo.pdb
