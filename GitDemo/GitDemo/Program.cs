@@ -11,6 +11,7 @@ namespace GitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("First C#");
+            Console.WriteLine("Hello World");
             Console.ReadLine();
         }
     }
